@@ -1,2 +1,1 @@
-# Credit-Card-Prediction
-Credit card predictor
+# Machine Learning on Lending Loan Cub Dataset
