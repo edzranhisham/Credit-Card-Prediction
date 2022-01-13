@@ -1,1 +1,1 @@
-# Machine Learning on Lending Loan Cub Dataset
+# Machine Learning on Lending Loan Club Dataset
